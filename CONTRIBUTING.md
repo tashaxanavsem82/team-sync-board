@@ -14,4 +14,4 @@ Thanks for your interest in contributing to Team Sync Board! Here are some guide
 We expect all contributors to follow our [code of conduct](CODE_OF_CONDUCT.md) when interacting with our community.
 
 ## Issues
-Please make sure to check existing issues before filing a new one. We encourage you to provide a detailed description and relevant information to help us Address any bugs or feature requests.
+Please make sure to check existing issues before filing a new one. We encourage you to provide a detailed description and relevant information to help us address any bugs or feature requests.
