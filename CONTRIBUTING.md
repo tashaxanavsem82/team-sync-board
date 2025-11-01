@@ -4,7 +4,7 @@ Thanks for your interest in contributing to Team Sync Board! Here are some guide
 
 ## How to Contribute
 1. **Fork the repository**
-2. **Create a new branch** for your feature or bugfix: `git checkout -b feature/YourFeatureName`
+2. **Create a new branch** for your feature or bugfix: `git checkout -b feature/YourFeatureName` (you can also use `bugfix/YourBugfixName` for bug fixes)
 3. **Make your changes**
 4. **Commit your changes**: `git commit -m 'Add some feature'`
 5. **Push to the branch**: `git push origin feature/YourFeatureName`
