@@ -19,7 +19,7 @@ nav a {
 }
 
 nav a:hover {
-    background: #575757;
+    background: #6c757d;  /* Updated hover color for better accessibility */
 }
 
 main {
