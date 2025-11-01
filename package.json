@@ -1,0 +1,14 @@
+{
+  "name": "team-sync-board",
+  "version": "1.0.0",
+  "description": "A real-time collaboration platform for teams",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "license": "MIT"
+}
